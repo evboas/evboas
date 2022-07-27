@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=evboas&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=evboas&layout=demo&theme=vision-friendly-dark)
