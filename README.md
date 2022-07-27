@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋
 
 - 🔭 Atualmente trabalhando com desenvolvimento de projetos pessoais, com sistemas web utilizando PHP.
 - 🌱 Estudando engenharia da computação pela Universidade Virtual do Estado de São Paulo, pessoalmente dando mais foco a sistemas embarcados com desenvolvimento em C/C++ e Python e desenvolvimento de sistemas web com PHP.
